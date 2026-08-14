@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="Screensdemo-preview png" src="https://github.com/user-attachments/assets/664646a1-40b7-48ba-9329-64acaccf3122" />
 # async-doc-rag-engine
 "A local, asynchronous document ingestion and RAG pipeline engine built with FastAPI, LangChain, ChromaDB, and Hugging Face for fast semantic vector search."
 ## 📺 Project Demo Walkthrough
